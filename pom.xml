@@ -65,7 +65,8 @@
 		    <version>0.10.5</version>
 		    <scope>runtime</scope>
 		</dependency>
-<!--#Change 1 for SAST - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard #By Mohammad Wasif
+<!--#Change 1 for SAST - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard 
+#By Mohammad Wasif
 #Default Location of CodeCoverage File is target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
 -->
         <dependency>
