@@ -81,7 +81,7 @@
 	<build>
 		<plugins>
 			
-<!--#Change 2 for SAST - Added Jacoco Plugin - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard #By Mohammad Wasif
+<!--#Change 2 for SAST - Added Jacoco Plugin - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard #ByMohammad Wasif
 #Default Location of CodeCoverage File is target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
 -->		
 		<plugin>
